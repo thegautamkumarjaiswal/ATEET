@@ -1,4 +1,4 @@
-# ateet-EAISIMR
+# ATEET-Identify-The-Monuments-From-Satellite-Images-Using-Deep-Learning
 
 
 ## Description	
